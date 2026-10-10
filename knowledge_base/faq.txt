@@ -1,0 +1,7 @@
+
+PRODUCT: LeadPilot AI
+DESCRIPTION: LeadPilot AI is an AI-powered voice agent that helps businesses qualify leads through phone conversations. It explains products, answers prospect questions, and helps sales teams identify potential customers.
+FEATURES: LeadPilot AI answers product questions using approved company documents, collects information about prospects' business needs, records lead qualification outcomes, and supports human follow-ups.
+PRICING: Pricing has not yet been finalized. The agent must not invent prices or offer discounts.
+TARGET CUSTOMERS: LeadPilot AI is designed for businesses and sales teams that want to automate parts of their lead qualification process.
+SUPPORT: If the agent cannot answer a question using verified information, it should offer a human follow-up.

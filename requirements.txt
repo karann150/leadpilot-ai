@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+openai
+faiss-cpu
+numpy
+pymupdf
+python-dotenv
+requests
+pytest
